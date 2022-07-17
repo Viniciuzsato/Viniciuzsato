@@ -1,8 +1,8 @@
 ## Olá eu sou Vinicius Sato, estou cursando 4º e último semestre em Análise e Desenvolvimento de Sistemas, e realizando cursos para Desenvolvimento WEB!
 <div align="center">
   <a href="https://github.com/Viniciuzsato">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Viniciuzsato&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciuzsato&layout=compact&langs_count=7&theme=dark"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Viniciuzsato&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciuzsato&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Sato-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
