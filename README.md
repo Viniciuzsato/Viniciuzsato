@@ -2,8 +2,9 @@
 <div align="center">
   <a href="https://github.com/Viniciuzsato">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Viniciuzsato&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciuzsato&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+## Conhecimentos
 <div style="display: inline_block"><br>
   <img align="center" alt="Sato-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Sato-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
